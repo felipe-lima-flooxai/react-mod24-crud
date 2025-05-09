@@ -1,0 +1,14 @@
+{
+  "users": [
+    { "id": 1, "name": "Ana Souza", "age": 28, "email": "ana.souza@example.com" },
+    { "id": 2, "name": "Bruno Lima", "age": 34, "email": "bruno.lima@example.com" },
+    { "id": 3, "name": "Carlos Mendes", "age": 21, "email": "carlos.mendes@example.com" },
+    { "id": 4, "name": "Daniela Rocha", "age": 30, "email": "daniela.rocha@example.com" },
+    { "id": 5, "name": "Eduardo Tavares", "age": 25, "email": "eduardo.tavares@example.com" },
+    { "id": 6, "name": "Fernanda Dias", "age": 27, "email": "fernanda.dias@example.com" },
+    { "id": 7, "name": "Gustavo Almeida", "age": 32, "email": "gustavo.almeida@example.com" },
+    { "id": 8, "name": "Helena Martins", "age": 26, "email": "helena.martins@example.com" },
+    { "id": 9, "name": "Igor Santos", "age": 29, "email": "igor.santos@example.com" },
+    { "id": 10, "name": "Juliana Pires", "age": 24, "email": "juliana.pires@example.com" }
+  ]
+}
